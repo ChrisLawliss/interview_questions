@@ -1,0 +1,27 @@
+id,name,category,description,Oil,Vegan,price,cost
+101,The GOAT,Savory,Caramelized onions and goat cheese,Butter,No,6,2.1
+102,PB & J,Sweet,Peanut Butter and Concord Grape Jelly,Vegetable Oil,Yes,7,1.4
+103,Beef Burrito,Savory,Beef with spices cheese and beans,Vegetable Oil,No,4,0.4
+104,Chicken Burrito,Savory,"Chicken with spices, cheese and beans",Vegetable Oil,No,4,0.4
+105,Chicken Fajita,Savory,"Chicken with spices, peppers and Onions",Vegetable Oil,No,5,2.25
+106,Philly Cheesesteak,Savory,Beef with onions and cheeze whiz,Vegetable Oil,No,4,2.4
+107,S'mores,Sweet,Marshmallow and chocolate w/ graham cracker crumb,Butter,No,3,1.35
+108,The Elvis,Sweet,Peanut Butter and Banana,Vegetable Oil,Yes,5,3
+109,Octoberfest,Savory,Sausage with Peppers and Onion,Vegetable Oil,No,7,2.8
+110,BBQ Pork,Savory,Pulled Pork with Smokey BBQ sauce,Vegetable Oil,No,6,1.8
+111,BBQ Chicken,Savory,Chicken with Smokey BBQ Sauce,Vegetable Oil,No,6,3.3
+112,BBQ Tofu,Savory,Tofu with Smokey BBQ Saucs,Vegetable Oil,Yes,4,1
+113,Morning Bacon,Savory,"Bacon, Egg and Cheese",Butter,No,6,0.9
+114,Morning Sausage,Savory,"Sausage, Egg and Cheese",Butter,No,4,1.4
+115,Chicken Quesadilla,Savory,Chicken with melty cheese,Vegetable Oil,No,3,1.05
+116,Vermonter,Savory,"Chicken, Apples and Cheddar Cheese",Butter,No,6,0.9
+117,Reese's,Sweet,Peanut Butter and Chocolate,Butter,No,5,2.75
+118,Cherry Pie,Sweet,Cherry Filling,Vegetable Oil,No,4,2.2
+119,French Fries,Sides,French Fries,,Yes,2.5,0.7
+120,Salt & Vinegar Chips,Sides,Salt & Vinegar Chips,,Yes,2,0.5
+121,BBQ Chips,Sides,BBQ Chips,,No,2,0.5
+122,Cole Slaw,Sides,Cole Slaw,,No,2,0.5
+123,Coke,Drink,Coke,,Yes,2,0.5
+124,Sprite,Drink,Sprite,,Yes,2,0.5
+125,Lemonade,Drink,Lemonade,,Yes,2.5,0.75
+126,Iced Tea,Drink,Iced Tea,,Yes,2.5,0.3
